@@ -1,6 +1,7 @@
 
 <html>
 <head>
+    <meta charset="UTF-8">
   <title>Huella Artística</title>
 </head>
 <body>
