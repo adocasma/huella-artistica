@@ -24,10 +24,8 @@
   <h2 id="datos-personales">Datos personales</h2>
   <p>
     Nombre: Adolfo Castaño Martín<br>
-    Correo electrónico: adolfo.casmar@educa.jcyl.es<br>
-    Tlf: +34637893371<br>
-    Dirección: Calle Albillo nº12, Morales del Vino, Zamora.
-  </p>
+    Correo electrónico: adocasma@uoc.edu<br>
+      </p>
 
   <h2 id="statement">Statement</h2>
   <p>
