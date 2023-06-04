@@ -11,7 +11,6 @@
   <ul>
     <li><a href="#datos-personales">Datos personales</a></li>
     <li><a href="#abstract">Statement</a></li>
-   
     <li><a href="#enlaces-de-interes">Enlaces de interés</a></li>
     <li><a href="#titulo-del-proyecto">Título del proyecto</a></li>
     <li><a href="#abstract">Abstract</a></li>
@@ -64,6 +63,18 @@ nuestro planeta.
 <section id="biografia">
     <h2>Biografía</h2>
     <p>Mi historia en el mundo del arte comenzó en un pequeño pueblo, donde me sumergí en el fascinante mundo de la creatividad desde temprana edad. Con mi formación en la Escuela de Arte y Superior de Diseño de Zamora, descubrí cómo combinar habilidades técnicas con una gran dosis de imaginación y así crear obras de arte únicas. Actualmente compagino la docencia en centros públicos con la creación y modelado 3D para el mundo del videojuego.</p>
+  </section>
+    
+     <section id="presupuesto">
+    <h2>Presupuesto</h2>
+    <p>Aquí se detalla el presupuesto para la realización de mi proyecto:</p>
+    <!-- Inserta aquí tu presupuesto -->
+  </section>
+    
+    <section id="cronograma">
+    <h2>Cronograma</h2>
+    <p>Aquí se muestra el cronograma de mi proyecto artístico:</p>
+    <!-- Inserta aquí tu cronograma -->
   </section>
     
     <section id="documentacion-de-la-obra">
