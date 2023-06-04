@@ -1,0 +1,9 @@
+.sass-cache
+.bundle
+vendor
+.DS_Store
+__pycache__
+node_modules
+.idea/
+public/
+_gen
