@@ -4,7 +4,7 @@
   <title>Huella Artística</title>
 </head>
 <body>
-  <h1>Proyecto II: Huella Artística</h1>
+  <h1>Proyecto: Huella Artística</h1>
 
   <h2>Índice</h2>
   <ul>
