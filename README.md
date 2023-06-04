@@ -11,7 +11,7 @@
   <ul>
     <li><a href="#datos-personales">Datos personales</a></li>
     <li><a href="#abstract">Statement</a></li>
-    <li><a href="#biografia">Biografía</a></li>
+   
     <li><a href="#enlaces-de-interes">Enlaces de interés</a></li>
     <li><a href="#titulo-del-proyecto">Título del proyecto</a></li>
     <li><a href="#abstract">Abstract</a></li>
@@ -19,7 +19,7 @@
     <li><a href="#imagenes-y-documentacion">Imágenes y documentación</a></li>
     <li><a href="#cronograma">Cronograma</a></li>
     <li><a href="#presupuesto">Presupuesto</a></li>
-    <li><a href="#documentacion-de-obra-reciente">Documentación de obra reciente</a></li>
+    <li><a href="#documentacion-de-la-obra">Documentación de obra reciente</a></li>
   </ul>
 
   <h2 id="datos-personales">Datos personales</h2>
@@ -30,7 +30,7 @@
 
   <h2 id="abstract">Statement</h2>
   <p>
-    Abstract
+
 El arte tiene un poderoso papel en la sociedad para crear conciencia sobre temas
 importantes y fomentar cambios positivos. Al hacer que los artistas y los
 espectadores reflexionen sobre el impacto medioambiental de la producción
@@ -66,7 +66,7 @@ nuestro planeta.
     <p>Mi historia en el mundo del arte comenzó en un pequeño pueblo, donde me sumergí en el fascinante mundo de la creatividad desde temprana edad. Con mi formación en la Escuela de Arte y Superior de Diseño de Zamora, descubrí cómo combinar habilidades técnicas con una gran dosis de imaginación y así crear obras de arte únicas. Actualmente compagino la docencia en centros públicos con la creación y modelado 3D para el mundo del videojuego.</p>
   </section>
     
-    <section id="documentacion-obra-reciente">
+    <section id="documentacion-de-la-obra">
     <h2>Documentación de obra reciente</h2>
     <p>Aquí puedes encontrar documentación de mi obra más reciente:</p>
     <a href="carpeta-documentos/documento1.pdf">Documento 1</a>
