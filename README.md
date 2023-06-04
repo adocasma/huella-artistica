@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-  <title>Huella Artística</title>
+  
 </head>
 <body>
   <h1>Proyecto: Huella Artística</h1>
